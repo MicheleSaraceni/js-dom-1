@@ -5,3 +5,24 @@
     box-sixing: border-box;
 }
 
+.debug{
+    border:1px solid red;
+}
+
+.conteiner {
+    max-width: 70%;
+    margin: 30 auto;
+}
+
+h1{
+    text-align: center;    
+}
+
+.lampadina{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    margin:0 auto;
+}
